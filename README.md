@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Here are some ideas to get you started:
+#### Here are some ideas to get you started:
 
 - 🌱 I’m currently learning react native framework
 - 👯 I’m looking to collaborate on mobile apps
