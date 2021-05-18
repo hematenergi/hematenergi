@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### Here are some ideas to get you started:
 
 - 🌱 I’m currently learning react native framework
-- 👯 I’m looking to collaborate on mobile apps
-- 💬 Ask me about writing code
+- 👯 I’m looking to collaborate on small mobile apps project
+- 💬 Ask me about writing a code
 - 📫 How to reach me: danyarkham@gmail.com
 - ⚡ Fun fact: i love cheese than chocolate
