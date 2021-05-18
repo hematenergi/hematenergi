@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Hello, iam Dany Arkham a.k.a hematenergi ** 
+# Hello, I am Dany Arkham a.k.a hematenergi ** 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=hematenergi&show_icons=true&theme=vue&count_private=true)
 
