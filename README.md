@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -->
 #### Here are some ideas to get you started:
 
-- 🌱 I’m currently learning react native framework
 - 👯 I’m looking for collaborate on apps project
 - 💬 Ask me about writing a code
 - 📫 How to reach me: danyarkham@gmail.com
