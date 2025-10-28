@@ -3,6 +3,8 @@
 
 Frontend & Mobile Engineer | Product Builder | Tech Dad  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dany%20Arkham-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dany-arkham-615165b6/)
+
 ---
 
 ### 🧠 What I’m Building
@@ -21,7 +23,7 @@ Frontend & Mobile Engineer | Product Builder | Tech Dad
 
 ### ⚙️ Tech Stack
 `TypeScript` · `React Native` · `Expo` · `Next.js` · `Zustand` · `Tanstack Query`  
-`Firebase` · `PostgreSQL` · `Node.js` · `Express` · `Solana Web3.js` · `Golang (learning)`
+`Firebase` · `PostgreSQL` · `Node.js` · `Express` · `Solana Web3.js` · `Golang`
 
 ---
 
