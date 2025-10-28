@@ -8,9 +8,8 @@ Frontend & Mobile Engineer | Product Builder | Tech Dad
 
 ### 🧠 What I’m Building
 - 🧩 **ZiroDelta (ZDLT)** — Solana-based ecosystem for trading, staking, and arbitrage.
-- 💊 **FlimtyApp** — health e-commerce ecosystem under AIMI Group Jakarta.
-- 🌊 **Floodie** — Flutter-based weather app project for portfolio (Play Store incoming).
-- 🎓 **Aplikasi P5** — education platform for “Projek Penguatan Profil Pelajar Pancasila”.
+- 💊 **Flimty** — health e-commerce ecosystem under AIMI Group Jakarta.
+
 
 ---
 
