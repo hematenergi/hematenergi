@@ -3,7 +3,6 @@
 
 Frontend & Mobile Engineer | Product Builder | Tech Dad  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hematenergi&show_icons=true&theme=vue&count_private=true)
 
 ---
 
