@@ -28,7 +28,6 @@ Frontend & Mobile Engineer | Product Builder | Tech Dad
 ### 💬 Let’s Connect
 - 📫 Email: **danyarkham@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/dany-arkham-615165b6](https://www.linkedin.com/in/dany-arkham-615165b6/)  
-- 🐦 X/Twitter: [@hemat_energi](https://x.com/hemat_energi)
 
 ---
 
