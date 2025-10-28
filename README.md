@@ -3,20 +3,18 @@
 
 Frontend & Mobile Engineer | Product Builder | Tech Dad  
 
-
 ---
 
 ### 🧠 What I’m Building
-- 🧩 **ZiroDelta (ZDLT)** — Solana-based ecosystem for trading, staking, and arbitrage.
+- 🧩 **ZiroDelta (ZDLT)** — Solana-based ecosystem for trading, staking, and arbitrage.  
 - 💊 **Flimty** — health e-commerce ecosystem under AIMI Group Jakarta.
-
 
 ---
 
 ### 💼 What I Do
-- Frontend & Mobile Development (React, React Native, Expo, Flutter)
+- Frontend & Mobile Development (React, React Native, Expo, Flutter)  
 - UI/UX & Product Strategy  
-- Web3 & Crypto Integrations (Solana, Phantom, Bybit API)
+- Web3 & Crypto Integrations (Solana, Phantom, Bybit API)  
 - Teaching & Mentoring young devs to build real projects  
 
 ---
@@ -28,9 +26,9 @@ Frontend & Mobile Engineer | Product Builder | Tech Dad
 ---
 
 ### 💬 Let’s Connect
-- 📫 Email: **danyarkham@gmail.com**
-- 🐦 Twitter/X: [@hemat_energi](https://x.com/hemat_energi)
-- 🌐 Website: [hematenergi.dev](https://hematenergi.dev) _(coming soon)_
+- 📫 Email: **danyarkham@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/dany-arkham-615165b6](https://www.linkedin.com/in/dany-arkham-615165b6/)  
+- 🐦 X/Twitter: [@hemat_energi](https://x.com/hemat_energi)
 
 ---
 
