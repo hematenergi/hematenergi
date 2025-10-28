@@ -1,27 +1,40 @@
-### Hi there 👋
-## I am Dany Arkham a.k.a hematenergi 
+### Hey there 👋  
+## I’m Dany Arkham — a.k.a hematenergi ⚡  
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=hematenergi&show_icons=true&theme=vue&count_private=true)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hematenergi)](#)
+Frontend & Mobile Engineer | Product Builder | Tech Dad  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hematenergi&show_icons=true&theme=vue&count_private=true)
 
-**hematenergi/hematenergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 What I’m Building
+- 🧩 **ZiroDelta (ZDLT)** — Solana-based ecosystem for trading, staking, and arbitrage.
+- 💊 **FlimtyApp** — health e-commerce ecosystem under AIMI Group Jakarta.
+- 🌊 **Floodie** — Flutter-based weather app project for portfolio (Play Store incoming).
+- 🎓 **Aplikasi P5** — education platform for “Projek Penguatan Profil Pelajar Pancasila”.
 
-- 🔭 I’m currently working on AIMI Group Jakarta ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Here are some ideas to get you started:
+---
 
-- 👯 I’m looking for collaborate on apps project
-- 💬 Ask me about writing a code
-- 📫 How to reach me: danyarkham@gmail.com
-- ⚡ Fun fact: i love cheese than chocolate
+### 💼 What I Do
+- Frontend & Mobile Development (React, React Native, Expo, Flutter)
+- UI/UX & Product Strategy  
+- Web3 & Crypto Integrations (Solana, Phantom, Bybit API)
+- Teaching & Mentoring young devs to build real projects  
+
+---
+
+### ⚙️ Tech Stack
+`TypeScript` · `React Native` · `Expo` · `Next.js` · `Zustand` · `Tanstack Query`  
+`Firebase` · `PostgreSQL` · `Node.js` · `Express` · `Solana Web3.js` · `Golang (learning)`
+
+---
+
+### 💬 Let’s Connect
+- 📫 Email: **danyarkham@gmail.com**
+- 🐦 Twitter/X: [@hemat_energi](https://x.com/hemat_energi)
+- 🌐 Website: [hematenergi.dev](https://hematenergi.dev) _(coming soon)_
+
+---
+
+### ⚡ Fun Fact
+I balance two full-time dev jobs, crypto projects, and dad life — and still find time to chase weird ideas that might just work.
