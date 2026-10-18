@@ -12,7 +12,7 @@ Frontend & mobile engineer from Indonesia (GMT+7). I build web and mobile apps o
 - **On-chain tooling** (private) — Uniswap v3/v4 LP entry on an EVM chain with `viem`; a Meteora DLMM liquidity bot on Solana.
 
 ### 📱 Web & mobile
-- **Flimty (AIMI Group)** — in-house mobile & web engineer since 2021. Consumer app plus six internal products (CRM, POS PWA, LMS, Next.js portal, field-sales app).
+- **Flimty (AIMI Group)** — in-house mobile & web engineer since 2022. Consumer app plus six internal products (CRM, POS PWA, LMS, Next.js portal, field-sales app).
 - **Buddy: Virtual Pet Chat** — AI companion app on the App Store (Expo, Firebase, PostHog). 9 App Store releases for a Canadian startup, as part of a two-person team.
 
 ### 🔨 Open source
