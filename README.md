@@ -5,10 +5,6 @@ Frontend & mobile engineer from Indonesia (GMT+7). I build web and mobile apps o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dany%20Arkham-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dany-arkham-615165b6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hematenergi.github.io-black?style=flat-square)](https://hematenergi.github.io/)
 
-<p align="center">
-  <img src="metrics.svg" alt="GitHub metrics for hematenergi" />
-</p>
-
 ---
 
 ### ⛓️ Web3
