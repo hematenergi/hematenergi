@@ -1,9 +1,9 @@
 ### Hi, I'm Dany 👋
 
-Frontend & mobile engineer from Indonesia (GMT+7). I build web and mobile apps on one React + TypeScript stack — from App Store apps to real-time trading dashboards and Solana dApps.
+Frontend & mobile engineer from Indonesia (GMT+7). I build web and mobile apps on one React + TypeScript stack — from App Store apps to real-time trading dashboards and Solana dApps. Lately I also design and operate AI agent systems: a multi-agent development fleet with deterministic supervision and verification gates that ships real products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dany%20Arkham-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dany-arkham-615165b6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hematenergi.github.io-black?style=flat-square)](https://hematenergi.github.io/)
+[![Website](https://img.shields.io/badge/Website-danyarkham.is--a.dev-black?style=flat-square)](https://danyarkham.is-a.dev/)
 
 ---
 
@@ -22,5 +22,5 @@ Frontend & mobile engineer from Indonesia (GMT+7). I build web and mobile apps o
 `TypeScript` · `React` · `Next.js` · `React Native` · `Expo` · `Solana wallet-adapter` · `@solana/web3.js` · `viem` · `Zustand` · `TanStack Query` · `WebSocket` · `Firebase` · `Node.js`
 
 ### 💬 Open to
-Remote contract work: web3 frontend (Solana, EVM), React / Next.js, React Native / Expo.
+Remote contract work: React / Next.js, React Native / Expo, web3 frontend (Solana, EVM), and AI product engineering.
 📫 **danyarkham@gmail.com**
