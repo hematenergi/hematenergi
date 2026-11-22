@@ -1,6 +1,6 @@
 ### Hi, I'm Dany 👋
 
-Frontend & mobile engineer from Indonesia (GMT+7). I build web and mobile apps on one React + TypeScript stack — from App Store apps to real-time trading dashboards and Solana dApps. Lately I also design and operate AI agent systems: a multi-agent development fleet with deterministic supervision and verification gates that ships real products.
+I ship Mac and web products at Utopia Projects: Senada, a singing coach that scores your pitch; CoreGlance, your Mac's vitals in the menu bar; and Gandeng, websites for local businesses, paid once. My frontend stack is React, Next.js, React Native, and TypeScript. I also design and operate AI agent systems: a multi-agent development fleet with deterministic supervision and verification gates that ships real products. Based in Indonesia (GMT+7), working remotely.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dany%20Arkham-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dany-arkham-615165b6/)
 [![Website](https://img.shields.io/badge/Website-danyarkham.is--a.dev-black?style=flat-square)](https://danyarkham.is-a.dev/)
