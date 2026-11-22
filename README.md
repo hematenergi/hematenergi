@@ -1,6 +1,6 @@
 ### Hi, I'm Dany 👋
 
-I ship Mac and web products at Utopia Projects: Senada, a singing coach that scores your pitch; CoreGlance, your Mac's vitals in the menu bar; and Gandeng, websites for local businesses, paid once. My frontend stack is React, Next.js, React Native, and TypeScript. I also design and operate AI agent systems: a multi-agent development fleet with deterministic supervision and verification gates that ships real products. Based in Indonesia (GMT+7), working remotely.
+I design and operate a multi-agent development fleet at Utopia Projects, with deterministic supervision and verification gates. My open-source project Fragment gives AI coding agents project memory. On the application side, I use React and TypeScript for real-time trading dashboards and Solana dApps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dany%20Arkham-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dany-arkham-615165b6/)
 [![Website](https://img.shields.io/badge/Website-danyarkham.is--a.dev-black?style=flat-square)](https://danyarkham.is-a.dev/)
