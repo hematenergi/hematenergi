@@ -1,9 +1,10 @@
 ### Hi, I'm Dany 👋
 
-I design and operate a multi-agent development fleet at Utopia Projects, with deterministic supervision and verification gates. My open-source project Fragment gives AI coding agents project memory. On the application side, I use React and TypeScript for real-time trading dashboards and Solana dApps.
+I design and operate a multi-agent development fleet at Utopy Projects, with deterministic supervision and verification gates. My open-source project Fragment gives AI coding agents project memory. On the application side, I use React and TypeScript for real-time trading dashboards and Solana dApps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dany%20Arkham-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dany-arkham-615165b6/)
 [![Website](https://img.shields.io/badge/Website-danyarkham.is--a.dev-black?style=flat-square)](https://danyarkham.is-a.dev/)
+[![Utopy Projects](https://img.shields.io/badge/Utopy%20Projects-utopy.net-black?style=flat-square)](https://utopy.net/)
 
 ---
 
